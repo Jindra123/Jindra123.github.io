@@ -198,18 +198,19 @@ a:hover{
 	position: relative; 
 	z-index: 1; 
 	top: 16%; 
-	width: 40%;
+	width: 40vw;
 	border: 1px #212529 solid;
 	color: #212529;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 40px;
 }
 
-.nadpis_h3 h3{
+/*.nadpis_h3 h3{
 	padding-bottom: 6px;
 	margin-bottom: 2%;
 	border-bottom: 1px #212529 solid;
-}
+}*/
 
 .nadpis_h3 p{
 	text-align: left;

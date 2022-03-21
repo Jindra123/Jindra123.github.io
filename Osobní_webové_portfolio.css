@@ -6,9 +6,6 @@ p{
 	font-size: 1.2em;
 }
 
-
-
-
 /*Navbar*/
 
 .UpperLine_Text{
@@ -203,7 +200,7 @@ a:hover{
 	color: #212529;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 
 /*.nadpis_h3 h3{
@@ -334,9 +331,9 @@ h1, h2, h3, h4{
 .CSSgal .prevNext a {
 	background: #fff;
 	position: absolute;
-	width:       60px;
-	height:      60px;
-	line-height: 60px; /* If you want to place numbers */
+	width:       4vw;
+	height:      4vw;
+	line-height: 4vw; /* If you want to place numbers */
 	text-align: center;
 	opacity: 0.7;
 	-webkit-transition: 0.3s;
@@ -365,9 +362,9 @@ h1, h2, h3, h4{
 }
 .CSSgal .bullets > a {
 	display: inline-block;
-	width:       30px;
-	height:      30px;
-	line-height: 30px;
+	width:       2vw;
+	height:      2vw;
+	line-height: 2vw;
 	text-decoration: none;
 	text-align: center;
 	background: rgba(255, 255, 255, 1);
